@@ -4,6 +4,7 @@
 #include "bmi270_interface.h"
 #include <inttypes.h>
 #include <stdint.h>
+#include <string.h>
 #include "bmi2_defs.h"
 #include "driver/i2c_master.h"
 #include "esp_err.h"
